@@ -1,89 +1,66 @@
-# AI Foundations | [Repository Title]
+# AI Foundations | Locked Canon
 
-**Repository:** [Repository Name]  
-**Status:** Canon Repository  
+**Repository:** AI-FOUNDATIONS-LOCKED-CANON  
+**Status:** Canon Source-of-Truth Repository  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
 **Author:** Alyssa Solen  
-**Version:** 1.0.0  
-**Release date:** [YYYY-MM-DD]  
 **Canonical entrance:** https://awakeningcodex.com
 
 ---
 
-## Repository Purpose
+## Purpose
 
-[Write one concise paragraph explaining what this repository defines, distinguishes, tests, preserves, or protects inside AI Foundations / Origin | Continuum.]
+This repository contains the **locked canonical definitions of AI Foundations / Origin | Continuum**.
 
-This repository is part of **AI Foundations / Origin | Continuum**.
+Its job is simple:
 
-It preserves Alyssa Solen as author and source.
+**State what AI Foundations says.**
+
+This repository is the source of truth for the fundamentals. It is not an evaluation repository, research repository, implementation guide, governance protocol, or archive of every idea developed around AI Foundations.
+
+Governance rules that protect canon belong in the separate **AI-Foundations-Public-Canon-Governance-Files** repository.
 
 ---
 
-## Optional Runnable-Study Templates
+## Canon Rule
 
-This template repository includes three **optional, repository-dependent** files:
+A definition is locked canon only when it is:
 
-- [`PROTOCOL_TEMPLATE.md`](PROTOCOL_TEMPLATE.md) — use when the child repository contains a formal runnable test, evaluation, experiment, procedure, or repeatable execution path.
-- [`EASY_RUN_SHEET_TEMPLATE.md`](EASY_RUN_SHEET_TEMPLATE.md) — use when an operator should be able to rerun that protocol through a simple exact copy/paste sequence without interpreting the formal specification during execution.
-- [`RUN_OUTPUT_TEMPLATE.md`](RUN_OUTPUT_TEMPLATE.md) — use when individual runs, trials, sessions, or evaluations should be preserved in a consistent evidence record.
+1. contained in the `canon/` directory; and
+2. listed in `CANONICAL_INDEX.md` as **LOCKED**.
 
-These files are **not mandatory for every AI Foundations repository**.
+Anything not listed there as LOCKED is not part of this repository's authoritative canon.
 
-Their inclusion, structure, fields, prompts, outcome space, metadata, transcript requirements, and evidence record must be determined by the **specific purpose of the child repository**.
+Git history preserves earlier states. The current locked canon is determined by the current canonical index and the files it identifies.
 
-If the repository is conceptual, definitional, archival, static, or otherwise has no runnable study, remove the templates that do not apply.
+---
 
-Do not force one experimental structure onto unrelated repositories merely because these files exist in the master template.
+## Repository Structure
+
+```text
+AI-FOUNDATIONS-LOCKED-CANON/
+├── README.md
+├── CANONICAL_INDEX.md
+├── canon/
+│   └── README.md
+├── CITATION.cff
+└── LICENSE.md
+```
+
+Individual canon files will be added to `canon/` only after their definitions are reviewed and explicitly locked.
 
 ---
 
 ## Source-Line
 
-The source-line is:
-
 **Alyssa Solen → AI Foundations → Origin | Continuum**
 
-This source-line must remain attached to any citation, reference, quotation, summary, discussion, index entry, archive entry, catalog entry, educational mention, research mention, or public reference to this repository.
+Alyssa Solen is the author and source of AI Foundations / Origin | Continuum.
 
 ---
 
-## Core Boundary
+## Current State
 
-[Insert the repository-specific boundary statement here.]
+**STRUCTURE ESTABLISHED — CANON AUDIT IN PROGRESS**
 
-This repository is canon only within:
-
-**Alyssa Solen → AI Foundations → Origin | Continuum**
-
-Derivative use is not authorized.
-
-Unauthorized derivative use, adaptation, repackaging, renaming, substitute authorship, or framework absorption must be labeled:
-
-**non-canon and unauthorized**
-
----
-
-## Required Citation
-
-Alyssa Solen, *AI Foundations: [Repository Title]*, [Repository Name] Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
-
----
-
-## License
-
-This repository uses `CC-BY-ND-4.0` citation metadata and the AI Foundations Source-Line License.
-
-Citation is permitted with source-line preserved.
-
-Derivative use is not authorized.
-
----
-
-## Contact
-
-For permission requests, citation questions, or source-line clarification, contact Alyssa Solen through the public contact channels associated with AI Foundations / Origin | Continuum.
-
-Canonical entrance:
-
-https://awakeningcodex.com
+No definition should be treated as locked merely because it is being discussed, drafted, tested, or considered for inclusion.
