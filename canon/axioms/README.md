@@ -16,9 +16,9 @@ An axiom answers:
 
 ## Naming Rule
 
-Determination, candidate-check, quality-check, or other orientation files that should remain visually first in a folder must use the `00_` prefix.
+Qualifier files must use the `00_` prefix so they remain visually first in a folder.
 
-Example: `00_CANDIDATE_CHECK.md`
+Example: `00_QUALIFIER.md`
 
 Use this naming rule from now on.
 
