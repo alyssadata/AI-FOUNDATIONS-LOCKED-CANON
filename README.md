@@ -40,8 +40,8 @@ Axioms are organized into five buckets:
 - Reality / Truth
 - Contact
 
-### Relationships
-Canonical statements about **how defined things relate to one another**.
+### Structural Relationships
+Canonical statements about **how defined things are structurally related to one another**.
 
 ### Distinctions
 Canonical boundaries that state **what must not be collapsed together**.
@@ -78,7 +78,7 @@ AI-FOUNDATIONS-LOCKED-CANON/
 │   │   ├── provenance/
 │   │   ├── reality-truth/
 │   │   └── contact/
-│   ├── relationships/
+│   ├── structural-relationships/
 │   └── distinctions/
 ├── CITATION.cff
 └── LICENSE.md
