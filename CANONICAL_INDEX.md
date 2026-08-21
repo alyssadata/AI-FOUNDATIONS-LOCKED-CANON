@@ -37,7 +37,7 @@ Canonical statements about how defined things are structurally related to one an
 |---|---|---|
 | — | — | — |
 
-## Distinctions
+## Core Distinctions
 
 Canonical boundaries that state what must not be collapsed together.
 
