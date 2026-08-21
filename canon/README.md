@@ -1,15 +1,20 @@
 # Canon Directory
 
-This directory contains the individual locked definitions of AI Foundations / Origin | Continuum.
+This directory contains the locked canonical fundamentals of AI Foundations / Origin | Continuum.
 
-## File Pattern
+Canon is split by type so the role of each file is immediately visible:
 
-Use one fundamental per file:
+- `definitions/` — what a canonical term means.
+- `axioms/` — fundamental statements that must remain true.
+- `relationships/` — how canonical things relate to one another.
+- `distinctions/` — boundaries that prevent unlike things from being collapsed together.
 
-`NN_TERM.md`
+## Excluded Material
 
-Each canon file should contain only the definition and distinctions required to fix that term inside AI Foundations.
+Do not place processes, evaluation protocols, run sheets, governance procedures, implementation instructions, research hypotheses, exploratory theory, or general notes in this directory.
 
-Do not place evaluations, research notes, implementation instructions, governance protocols, or exploratory theory in this directory.
+## Lock Rule
 
-A file in this directory is not authoritative until `CANONICAL_INDEX.md` lists it as **LOCKED**.
+A file is not authoritative merely because it exists under `canon/`.
+
+It becomes locked canon only when `CANONICAL_INDEX.md` lists it as **LOCKED**.
