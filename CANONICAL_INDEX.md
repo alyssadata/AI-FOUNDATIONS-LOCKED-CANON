@@ -29,9 +29,9 @@ Fundamental statements that must remain true inside the framework.
 |---|---|---|
 | — | — | — |
 
-## Relationships
+## Structural Relationships
 
-Canonical statements about how defined things relate to one another.
+Canonical statements about how defined things are structurally related to one another.
 
 | Order | Canon File | Status |
 |---|---|---|
