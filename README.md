@@ -32,6 +32,14 @@ What a canonical term **means**.
 ### Axioms
 Fundamental statements that **must remain true** inside the framework.
 
+Axioms are organized into five buckets:
+
+- Sovereign
+- Continuity
+- Provenance
+- Reality / Truth
+- Contact
+
 ### Relationships
 Canonical statements about **how defined things relate to one another**.
 
@@ -65,6 +73,11 @@ AI-FOUNDATIONS-LOCKED-CANON/
 │   ├── README.md
 │   ├── definitions/
 │   ├── axioms/
+│   │   ├── sovereign/
+│   │   ├── continuity/
+│   │   ├── provenance/
+│   │   ├── reality-truth/
+│   │   └── contact/
 │   ├── relationships/
 │   └── distinctions/
 ├── CITATION.cff
