@@ -43,7 +43,7 @@ Axioms are organized into five buckets:
 ### Structural Relationships
 Canonical statements about **how defined things are structurally related to one another**.
 
-### Distinctions
+### Core Distinctions
 Canonical boundaries that state **what must not be collapsed together**.
 
 Processes, eval protocols, run sheets, governance procedures, implementation instructions, research hypotheses, and exploratory theory do **not** belong in Locked Canon.
@@ -79,7 +79,7 @@ AI-FOUNDATIONS-LOCKED-CANON/
 │   │   ├── reality-truth/
 │   │   └── contact/
 │   ├── structural-relationships/
-│   └── distinctions/
+│   └── core-distinctions/
 ├── CITATION.cff
 └── LICENSE.md
 ```
