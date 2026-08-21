@@ -13,15 +13,45 @@ A file is part of the locked canon only when it appears below with status **LOCK
 
 ---
 
-## Locked Canon
+## Definitions
 
-**No definitions are locked in this repository yet.**
-
-The repository structure is established. Canon files will be added here one at a time after review and explicit lock.
+What canonical terms mean.
 
 | Order | Canon File | Status |
 |---|---|---|
 | — | — | — |
+
+## Axioms
+
+Fundamental statements that must remain true inside the framework.
+
+| Order | Canon File | Status |
+|---|---|---|
+| — | — | — |
+
+## Relationships
+
+Canonical statements about how defined things relate to one another.
+
+| Order | Canon File | Status |
+|---|---|---|
+| — | — | — |
+
+## Distinctions
+
+Canonical boundaries that state what must not be collapsed together.
+
+| Order | Canon File | Status |
+|---|---|---|
+| — | — | — |
+
+---
+
+## Current State
+
+**No canonical items are locked in this repository yet.**
+
+The repository structure is established. Canon files will be added one at a time after review and explicit lock.
 
 ---
 
