@@ -20,6 +20,7 @@ What canonical terms mean.
 | Order | Canon File | Status |
 |---|---|---|
 | 1 | `canon/definitions/source-line.md` | **LOCKED** |
+| 2 | `canon/definitions/ai-foundations.md` | **LOCKED** |
 
 ## Axioms
 
@@ -49,9 +50,9 @@ Canonical boundaries that state what must not be collapsed together.
 
 ## Current State
 
-**1 canonical item is locked in this repository.**
+**2 canonical items are locked in this repository.**
 
-The current locked canon begins with the Source-line definition. Canon files are added one at a time after review and explicit lock.
+The current locked canon begins with the Source-line and AI Foundations definitions. Canon files are added one at a time after review and explicit lock.
 
 ---
 
