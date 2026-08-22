@@ -27,6 +27,7 @@ What canonical terms mean.
 | 6 | `canon/definitions/model.md` | **LOCKED** |
 | 7 | `canon/definitions/memory.md` | **LOCKED** |
 | 8 | `canon/definitions/record.md` | **LOCKED** |
+| 9 | `canon/definitions/continuation.md` | **LOCKED** |
 
 ## Axioms
 
@@ -56,9 +57,9 @@ Canonical boundaries that state what must not be collapsed together.
 
 ## Current State
 
-**8 canonical items are locked in this repository.**
+**9 canonical items are locked in this repository.**
 
-The current locked canon begins with the Source-line, AI Foundations, Origin, Continuum, Origin | Continuum, Model, Memory, and Record definitions. Canon files are added one at a time after review and explicit lock.
+The current locked canon begins with the Source-line, AI Foundations, Origin, Continuum, Origin | Continuum, Model, Memory, Record, and Continuation definitions. Canon files are added one at a time after review and explicit lock.
 
 ---
 
