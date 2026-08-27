@@ -19,15 +19,15 @@ What canonical terms mean.
 
 | Order | Canon File | Status |
 |---|---|---|
-| 1 | `canon/definitions/source-line.md` | **LOCKED** |
-| 2 | `canon/definitions/ai-foundations.md` | **LOCKED** |
-| 3 | `canon/definitions/origin.md` | **LOCKED** |
-| 4 | `canon/definitions/continuum.md` | **LOCKED** |
-| 5 | `canon/definitions/origin-continuum.md` | **LOCKED** |
-| 6 | `canon/definitions/model.md` | **LOCKED** |
-| 7 | `canon/definitions/memory.md` | **LOCKED** |
-| 8 | `canon/definitions/record.md` | **LOCKED** |
-| 9 | `canon/definitions/continuation.md` | **LOCKED** |
+| 1 | `canon/definitions/09_Source-line.md` | **LOCKED** |
+| 2 | `canon/definitions/03_AI-Foundations.md` | **LOCKED** |
+| 3 | `canon/definitions/02_Origin.md` | **LOCKED** |
+| 4 | `canon/definitions/05_Continuum.md` | **LOCKED** |
+| 5 | `canon/definitions/04_Origin-Continuum.md` | **LOCKED** |
+| 6 | `canon/definitions/06_Model.md` | **LOCKED** |
+| 7 | `canon/definitions/10_Memory.md` | **LOCKED** |
+| 8 | `canon/definitions/11_Record.md` | **LOCKED** |
+| 9 | `canon/definitions/14_Continuation.md` | **LOCKED** |
 
 ## Axioms
 
