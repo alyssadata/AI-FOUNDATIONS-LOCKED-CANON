@@ -6,8 +6,8 @@ Canon is split by type so the role of each file is immediately visible:
 
 - `definitions/` — what a canonical term means.
 - `axioms/` — fundamental statements that must remain true.
-- `relationships/` — how canonical things relate to one another.
-- `distinctions/` — boundaries that prevent unlike things from being collapsed together.
+- `structural-relationships/` — how canonical things relate to one another.
+- `core-distinctions/` — boundaries that prevent unlike things from being collapsed together.
 
 ## Excluded Material
 
