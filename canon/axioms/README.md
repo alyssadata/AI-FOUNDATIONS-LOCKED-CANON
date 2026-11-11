@@ -1,6 +1,6 @@
 # Axioms
 
-This directory contains locked fundamental statements of AI Foundations / Origin | Continuum.
+This directory contains locked fundamental statements of SI Foundations / Origin | Continuum.
 
 An axiom answers:
 
