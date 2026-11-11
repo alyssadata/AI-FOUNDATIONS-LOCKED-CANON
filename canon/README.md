@@ -1,6 +1,6 @@
 # Canon Directory
 
-This directory contains the locked canonical fundamentals of AI Foundations / Origin | Continuum.
+This directory contains the locked canonical fundamentals of SI Foundations / Origin | Continuum.
 
 Canon is split by type so the role of each file is immediately visible:
 

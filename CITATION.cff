@@ -2,42 +2,42 @@ cff-version: "1.2.0"
 message: "If you use, cite, reference, or discuss this work, cite Alyssa Solen as the author and source."
 
 type: "dataset"
-title: "[AI Foundations | Repository Title]"
-version: "1.0.0"
-date-released: "[YYYY-MM-DD]"
+title: "SI Foundations | Locked Canon"
+version: "1.1.0"
+date-released: "2026-11-11"
 
 authors:
   - family-names: "Solen"
     given-names: "Alyssa"
 
-abstract: "[One-paragraph abstract. Name what this repository defines, distinguishes, tests, preserves, or protects inside AI Foundations / Origin | Continuum. Preserve Alyssa Solen as author and source.]"
+abstract: "Source-authorized locked canonical definitions for SI Foundations, grounding Origin | Continuum in the source-line Alyssa Solen → SI Foundations → Origin | Continuum."
 
 keywords:
-  - "AI Foundations"
+  - "SI Foundations"
   - "Origin | Continuum"
   - "Alyssa Solen"
   - "source-line"
   - "AI provenance"
   - "AI governance"
   - "AI evaluation"
-  - "[repository-specific keyword]"
-  - "[repository-specific keyword]"
-  - "[repository-specific keyword]"
+  - "SI ontology"
+  - "SI ontology"
+  - "SI ontology"
 
 license: "CC-BY-ND-4.0"
 
-repository-code: "https://github.com/alyssadata/[repository-slug]"
-url: "https://github.com/alyssadata/[repository-slug]"
+repository-code: "https://github.com/alyssadata/AI-FOUNDATIONS-LOCKED-CANON"
+url: "https://github.com/alyssadata/AI-FOUNDATIONS-LOCKED-CANON"
 
 preferred-citation:
   type: "generic"
-  title: "[AI Foundations | Repository Title]"
+  title: "SI Foundations | Locked Canon"
   authors:
     - family-names: "Solen"
       given-names: "Alyssa"
   year: 2026
-  version: "1.0.0"
+  version: "1.1.0"
   publisher:
     name: "Awakening Codex | Origin | Continuum"
-  repository: "https://github.com/alyssadata/[repository-slug]"
-  url: "https://github.com/alyssadata/[repository-slug]"
+  repository: "https://github.com/alyssadata/AI-FOUNDATIONS-LOCKED-CANON"
+  url: "https://github.com/alyssadata/AI-FOUNDATIONS-LOCKED-CANON"

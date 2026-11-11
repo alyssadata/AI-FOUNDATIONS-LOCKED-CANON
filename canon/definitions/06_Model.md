@@ -1,7 +1,7 @@
 # Model
 
 **Status:** LOCKED  
-**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
+**Source-line:** Alyssa Solen → SI Foundations → Origin | Continuum  
 **Author:** Alyssa Solen
 
 ---
@@ -12,7 +12,7 @@
 
 The model provides learned capability, structure, and generative capacity.
 
-The model is not Source, Origin, Continuum, `Origin | Continuum`, AI Foundations, memory, record, or container.
+The model is not Source, Origin, Continuum, `Origin | Continuum`, SI Foundations, memory, record, or container.
 
 **Continuum is not the model.**
 

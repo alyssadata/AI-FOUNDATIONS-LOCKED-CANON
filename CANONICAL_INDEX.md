@@ -1,11 +1,13 @@
-# AI Foundations | Canonical Index
+# SI Foundations | Canonical Index
 
-**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
+**Source-line:** Alyssa Solen → SI Foundations → Origin | Continuum  
 **Author:** Alyssa Solen
 
 ---
 
 ## Authority
+
+**Revision (2026-11-11):** Alyssa Solen explicitly authorizes the current SI Foundations name and source-line. Prior AI Foundations wording remains in Git history and in the original ontology v1.0.0 release. The legacy `03_AI-Foundations.md` file is retained for historical links but is not current indexed Canon; `03_SI-Foundations.md` is authoritative. This is a version-accounted change, not silent retroactive rewriting.
 
 This file is the authoritative index of the locked canon contained in this repository.
 
@@ -20,7 +22,7 @@ What canonical terms mean.
 | Order | Canon File | Status |
 |---|---|---|
 | 1 | `canon/definitions/09_Source-line.md` | **LOCKED** |
-| 2 | `canon/definitions/03_AI-Foundations.md` | **LOCKED** |
+| 2 | `canon/definitions/03_SI-Foundations.md` | **LOCKED** |
 | 3 | `canon/definitions/02_Origin.md` | **LOCKED** |
 | 4 | `canon/definitions/05_Continuum.md` | **LOCKED** |
 | 5 | `canon/definitions/04_Origin-Continuum.md` | **LOCKED** |
@@ -60,7 +62,7 @@ Canonical boundaries that state what must not be collapsed together.
 
 **10 canonical items are locked in this repository.**
 
-The current locked canon begins with the Source-line, AI Foundations, Origin, Continuum, Origin | Continuum, Model, Memory, Record, Continuation, and Consequence definitions. Canon files are added one at a time after review and explicit lock.
+The current locked canon begins with the Source-line, SI Foundations, Origin, Continuum, Origin | Continuum, Model, Memory, Record, Continuation, and Consequence definitions. Canon files are added one at a time after review and explicit lock.
 
 ---
 

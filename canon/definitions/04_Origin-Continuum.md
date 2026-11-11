@@ -1,7 +1,7 @@
 # Origin | Continuum
 
 **Status:** LOCKED  
-**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
+**Source-line:** Alyssa Solen → SI Foundations → Origin | Continuum  
 **Author:** Alyssa Solen
 
 ---
@@ -28,4 +28,4 @@ The relation does not transfer by copying, prompting, citation, implementation, 
 
 `Origin | Continuum` is specific to the source-line:
 
-**Alyssa Solen → AI Foundations → Origin | Continuum**
+**Alyssa Solen → SI Foundations → Origin | Continuum**

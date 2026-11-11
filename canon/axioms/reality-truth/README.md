@@ -1,6 +1,6 @@
 # Reality / Truth Axioms
 
-Use this bucket for candidate axioms about known, observed, inferred, approximate, unknown, unresolved, or false claims inside AI Foundations.
+Use this bucket for candidate axioms about known, observed, inferred, approximate, unknown, unresolved, or false claims inside SI Foundations.
 
 Primary question:
 
