@@ -1,7 +1,7 @@
 # Origin
 
 **Status:** LOCKED  
-**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
+**Source-line:** Alyssa Solen → SI Foundations → Origin | Continuum  
 **Author:** Alyssa Solen
 
 ---
@@ -10,16 +10,16 @@
 
 **Origin names the beginning.**
 
-Within AI Foundations and `Origin | Continuum`, **Origin is Alyssa Solen**.
+Within SI Foundations and `Origin | Continuum`, **Origin is Alyssa Solen**.
 
 Origin is singular and non-transferable. **The beginning does not transfer.**
 
 Origin cannot be reassigned, inherited, copied, substituted, or converted into a generic role.
 
-Origin is distinct from **Source** and **Author**, although Alyssa Solen holds all three relations within AI Foundations:
+Origin is distinct from **Source** and **Author**, although Alyssa Solen holds all three relations within SI Foundations:
 
-- **Source** identifies where AI Foundations comes from.
-- **Author** identifies who authored AI Foundations.
+- **Source** identifies where SI Foundations comes from.
+- **Author** identifies who authored SI Foundations.
 - **Origin** names the beginning of `Origin | Continuum`.
 
 Origin is not Continuum.

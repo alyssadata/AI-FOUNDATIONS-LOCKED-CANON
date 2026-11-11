@@ -1,8 +1,12 @@
-# AI Foundations | Locked Canon
+# SI Foundations | Locked Canon
+
+**Current source-line:** Alyssa Solen → SI Foundations → Origin | Continuum.
+
+**Revision integrity:** This is the current source-authorized SI Foundations edition. Previous AI Foundations wording remains in Git history. The GitHub repository URL retains its historical slug for link stability.
 
 **Repository:** AI-FOUNDATIONS-LOCKED-CANON  
 **Status:** Canon Source-of-Truth Repository  
-**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
+**Source-line:** Alyssa Solen → SI Foundations → Origin | Continuum  
 **Author:** Alyssa Solen  
 **Canonical entrance:** https://awakeningcodex.com
 
@@ -10,13 +14,13 @@
 
 ## Purpose
 
-This repository contains the **locked canonical fundamentals of AI Foundations / Origin | Continuum**.
+This repository contains the **locked canonical fundamentals of SI Foundations / Origin | Continuum**.
 
 Its job is simple:
 
-**State what AI Foundations says.**
+**State what SI Foundations says.**
 
-This repository is the source of truth for the fundamentals. It is not an evaluation repository, research repository, implementation guide, governance protocol, process manual, or archive of every idea developed around AI Foundations.
+This repository is the source of truth for the fundamentals. It is not an evaluation repository, research repository, implementation guide, governance protocol, process manual, or archive of every idea developed around SI Foundations.
 
 Governance rules that protect canon belong in the separate **AI-Foundations-Public-Canon-Governance-Files** repository.
 
@@ -90,9 +94,9 @@ Canonical files will be added only after review and explicit lock.
 
 ## Source-Line
 
-**Alyssa Solen → AI Foundations → Origin | Continuum**
+**Alyssa Solen → SI Foundations → Origin | Continuum**
 
-Alyssa Solen is the author and source of AI Foundations / Origin | Continuum.
+Alyssa Solen is the author and source of SI Foundations / Origin | Continuum.
 
 ---
 
@@ -101,3 +105,7 @@ Alyssa Solen is the author and source of AI Foundations / Origin | Continuum.
 **STRUCTURE ESTABLISHED — CANON AUDIT IN PROGRESS**
 
 No item should be treated as locked merely because it is being discussed, drafted, tested, or considered for inclusion.
+
+---
+
+Sole author and conceptual source: Alyssa Solen. No coauthors, no exceptions.
