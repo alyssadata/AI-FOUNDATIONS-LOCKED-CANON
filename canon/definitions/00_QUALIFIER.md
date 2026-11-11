@@ -4,7 +4,7 @@
 
 ## Primary Question
 
-**What does this term mean inside AI Foundations, stated in the minimum wording needed to make that meaning explicit and unambiguous?**
+**What does this term mean inside SI Foundations, stated in the minimum wording needed to make that meaning explicit and unambiguous?**
 
 ## Qualifier
 
